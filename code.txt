@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Project 1</title>
+		<title>Heimasíða Þorkels Helgasonar</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -30,20 +30,23 @@
 									</ul>
 								</header>
 
-							<!-- Content -->
-								<section>
-									<header class="main">
-										<h1>Project 1: Documentation</h1>
-									</header>
-									<p>When I started working on project 1, I started by taking a look at the material provided by the teacher. I went on the teachers <a href="https://haflidiasg.github.io/VEL403G.github.io/" target="_blank">website</a>. From there I hovered over Assignments and pressed <a href="https://haflidiasg.github.io/VEL403G.github.io/Documentation.html" target="_blank">1. Documentation</a>. What I found particularly helpful was the additional resources for html preperations. I started by going over the exercises on <a href="https://www.w3schools.com/html/default.asp" target="_blank">w3schools</a>. They taught me the basics of html5 programming which came in really handy when I wanted to change templates such as the one I am using right now. I found this template on <a href="https://html5up.net/" target="_blank">HTML5UP</a> which is a website that offers a lot of free html5 templates. This template is called editorial and can be found <a href="https://html5up.net/editorial" target="_blank">here</a>.
-                                    </p>
-
-                                    <h2>The code</h2>
-                                    Here you can find all of the code
-                                    <ul>
-                                        <li><a href="code.txt" target="_blank">home</a></li>
-                                    </ul>
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1>Hi, my name is Þorkell Helgason<br /></h1>
+										</header>
+										<p>I am a third year student in Mechanical Engineering at the University of Iceland. Currently I am taking a class called Manufacturing Processes. I am using this website to introduce myself and document my work in this course.</p>
+										<ul class="actions">
+											<li><a href="#" class="button big">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/IMG_5708.JPG" alt="" />
+									</span>
 								</section>
+
+
 
 						</div>
 					</div>
@@ -54,7 +57,7 @@
 							<!-- Menu -->
 								<nav id="menu">
 									<header class="major">
-										<h3>Menu</h3>
+										<h2>Menu</h2>
 									</header>
 									<ul>
 										<li><a href="index.html">Home</a></li>
@@ -63,7 +66,7 @@
 										<li>
 											<span class="opener">Projects</span>
 											<ul>
-												<li><a href="#">1. Documentation</a></li>
+												<li><a href="Project1.html">1. Documentation</a></li>
 												<li><a href="#">2. Computer-aided design and cutting</a></li>
 												<li><a href="#">3. 3D scanning and printing</a></li>
 												<li><a href="#">4. Computer controlled machnining</a></li>
@@ -76,6 +79,19 @@
 								</nav>
 
 
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Feel free to contact me if you have any questions about my work.</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
+										Nashville, TN 00000-0000</li>
+									</ul>
+								</section>
 
 							<!-- Footer -->
 								<footer id="footer">
