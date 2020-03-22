@@ -35,17 +35,6 @@
 									<header class="main">
 										<h1>Final Project</h1>
 									</header>
-                                    <h2>My contribution </h2>
-                                    To see my contribution to the final project. Press this <a href="Mycontribution.html" target="_blank">link</a>
-                                    <br/>
-                                    <br/>
-                                    <h2>About this webpage</h2>
-                                    This webpage is my draft to the final project webpage. It was the first role assigned to me. However, Alexander took over this role and the real website to our final project can be found  <a href="https://alexanderrobert.github.io/FinalProject.html" target="_blank">here</a>
-
-
-                                    <br/>
-                                    <br/>
-                                    <h1>My draft</h1>
 									<p>The final project is a group project that is supposed to integrate some of the core subjects, as well as some 2D and 3D elements. The group is also supposed to determine an intellectual proberty licensing. The team consists of <a href="https://aronottars.github.io/Framleidsluferli/" target="_blank">Aron</a>, <a href=" https://alexanderrobert.github.io/" target="_blank">Alexander</a> and <a href="https://helgason96.github.io/ThorkellHelgason/" target="_blank">Þorkell</a>. The goals of this project are:
                                         <ol>
                                       <li>Make a one-pager with the names of the team members, photo of the masterpiece and a brief description of the project</li>
