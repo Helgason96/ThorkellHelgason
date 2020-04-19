@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Þorkell Helgason</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Þorkell Helgason</strong></a>
+									<ul class="icons">
+										<li><a href="https://www.facebook.com/helgason96" target="_blank" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/thorkellhelgason/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Portfolio</h1>
+									</header>
+
+									<!-- Content -->
+										<h2 id="content">Education</h2>
+                                            <dl>
+														<dt>Bachelor of Science in Mechanical Engineering</dt>
+														<dd>
+															<p> University of Iceland, 2017 - 2020 </p>
+														</dd>
+														<dt>Exchange semester </dt>
+														<dd>
+															<p>Technical University of Munchen (TUM), summer 2019 </p>
+														</dd>
+														<dt>Secondary school graduation from the faculty of Physics </dt>
+														<dd>
+															<p>Sund Upper Secondary School, 2012 - 2016</p>
+														</dd>
+													</dl>
+
+                                        <h2 id="content">Work</h2>
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<h3>Landsvirkjun</h3>
+												<p>I worked as a summer employee at Landsvirkjun, the National Power Company of Iceland during the summers 2012-2016 and 2018. I worked as a team leader during the summers 2015, 2016 and as a project manager during the summer 2018. </p>
+											</div>
+											<div class="col-6 col-12-small">
+												<h3>University of Iceland</h3>
+												<p>Along with my studies at the University of Iceland, I have been a teaching assistant and a mentor for incoming exchange students.</p>
+											</div>
+
+
+											<!-- Break -->
+											<div class="col-4 col-12-medium">
+												<h3>Múlaborg</h3>
+												<p>I worked as an assistant at the Kindergarten Múlaborg from August 2017 - January 2018. It was a great experience and I really enjoyed it! </p>
+											</div>
+										</div>
